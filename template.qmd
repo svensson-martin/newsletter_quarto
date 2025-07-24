@@ -1,0 +1,68 @@
+---
+title: "News and messages from the HoD, "
+format: 
+    docx:
+        reference-doc: newsletter-reference.docx
+---
+
+
+```{r}
+#| label: setup
+#| include: false
+library(tidyverse)
+```
+
+\
+**News about staff**
+
+For the Algorithms section:
+\
+
+For the Artificial Intelligence, Cybersecurity and Programming Languages section:
+\
+
+For the Computational Science section:
+\
+
+For the Data Science and Statistics section:
+\
+
+For the Learning Experience Design section:
+\
+
+For the Topology, Algebra, Analysis and Geometry section:
+\
+
+Other hirings:
+\
+
+**Positions in process**
+
+PhD positions:
+\
+
+Postdoc positions:
+\
+
+Assistant, associate and full professor positions:
+\
+
+Other positions:
+\
+
+**News from the web**
+\
+
+**Minutes from committees, boards and councils**
+
+The IMADA Management Group:
+\
+
+The Faculty Management Group:
+\
+
+The Academic Council:
+\
+
+The Faculty Liaison Committee:
+\
